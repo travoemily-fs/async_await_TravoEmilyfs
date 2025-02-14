@@ -1,0 +1,30 @@
+{
+  "name": "async_await_travoemilyfs",
+  "version": "1.0.0",
+  "description": "![Repo Banner](https://www.dropbox.com/scl/fi/2tg9yj1my4tu4e6r3ryhq/repobanner.png?rlkey=u81eqfslsjercs9je5r13s52u&raw=1)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travoemily-fs/async_await_TravoEmilyfs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travoemily-fs/async_await_TravoEmilyfs/issues"
+  },
+  "homepage": "https://github.com/travoemily-fs/async_await_TravoEmilyfs#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "morgan": "^1.10.0"
+  }
+}
