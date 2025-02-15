@@ -17,12 +17,13 @@
 > Write two functions that will be able to call the [Pokemon API](https://pokeapi.co/docs/v2#pokemon)
 
 - ### Function 1
-  - [] must be titled `assignmentTask`
+
+  - [x] must be titled `assignmentTask`
   - [] gets Pokemon data by ID
   - [] requests the Pokemon data by that ID
- 
+
 - ### Function 2
-  - [] must be titled `getPokemonData`
-  - [] call the Pokemon API *TWICE*
-    - [] recieves the Pokemon by ID
-    - [] returns the called information in JSON     
+  - [x] must be titled `getPokemonData`
+  - [] call the Pokemon API _TWICE_
+    - [] retrieves the Pokemon by ID
+    - [] returns the called information in JSON
